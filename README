@@ -1,0 +1,3 @@
+The project is a test narrative for the domain of Game of Life.
+
+You can run the test using Gradle ("gradle test") or in your IDE (IntelliJ project setup provided).
